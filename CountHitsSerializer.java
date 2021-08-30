@@ -1,4 +1,3 @@
-package AristocratProject_1;
 
 import java.util.*;
 import java.io.FileInputStream;
